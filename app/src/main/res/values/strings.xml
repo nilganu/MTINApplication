@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Community Health Nursing</string>
+    <string-array name="familytype">
+        <item>Nuclear</item>
+        <item>Joint</item>
+        <item>Single</item>
+    </string-array>
+    <string-array name="Religion">
+        <item>Hindu</item>
+        <item>Muslim</item>
+        <item>Christain</item>
+        <item>Any Other</item>
+    </string-array>
+    <string-array name="typeofhouse">
+        <item>Pucca</item>
+        <item>Semi Pucca</item>
+        <item>Kutcha</item>
+    </string-array>
+    <string-array name="rooms">
+        <item>Adequate</item>
+        <item>Inadequate</item>
+    </string-array>
+    <string-array name="occupancy">
+        <item>Tenant</item>
+        <item>Owner</item>
+    </string-array>
+    <string-array name="ventilation">
+        <item>Adequate</item>
+        <item>Inadequate</item>
+        <item>No Ventilation</item>
+    </string-array>
+    <string-array name="lighting">
+        <item>Electricity</item>
+        <item>Gas Lamp</item>
+        <item>Oil Lamp</item>
+    </string-array>
+    <string-array name="watersupply">
+        <item>Tap/Hand Pump</item>
+        <item>Well</item>
+        <item>Open Tank</item>
+        <item>others</item>
+    </string-array>
+    <string-array name="kitchen">
+        <item>Separate</item>
+        <item>Corner of the room</item>
+        <item>veranda</item>
+    </string-array>
+    <string-array name="drainage">
+        <item>Adequate</item>
+        <item>Inadequate</item>
+        <item>No Drainage</item>
+    </string-array>
+    <string-array name="lavatory">
+        <item>Own Latrine</item>
+        <item>Public Latrine</item>
+        <item>Open air defection</item>
+    </string-array>
+
+</resources>
