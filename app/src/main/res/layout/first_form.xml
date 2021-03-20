@@ -116,7 +116,7 @@
         android:layout_marginStart="12dp"
         android:layout_marginTop="12dp"
         android:layout_marginEnd="12dp"
-        android:hint="Sub Caste">
+        android:hint="Sub Caste11">
 
         <!--this is the actual edit text which takes the input-->
         <com.google.android.material.textfield.TextInputEditText
