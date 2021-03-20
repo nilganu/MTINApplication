@@ -73,7 +73,7 @@
         android:layout_marginStart="12dp"
         android:layout_marginTop="12dp"
         android:layout_marginEnd="12dp"
-        android:hint="Type of Family">
+        android:hint="Family">
 
         <!--this is the actual edit text which takes the input-->
         <androidx.appcompat.widget.AppCompatAutoCompleteTextView
